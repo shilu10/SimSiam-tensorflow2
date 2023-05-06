@@ -48,12 +48,8 @@ $$Loss = \frac{1}{2} D(p_1, z_2) +  \frac{1}{2} D(p_2, z_1) \ \ with \ \ D(p, z)
 
 The downstream task of image classification on the [cifar 10](https://www.kaggle.com/c/cifar-10).
 
-## Citations
-```
-@Article{chen2020simsiam,
-  author  = {Xinlei Chen and Kaiming He},
-  title   = {Exploring Simple Siamese Representation Learning},
-  journal = {arXiv preprint arXiv:2011.10566},
-  year    = {2020},
-}
-```
+## References
+- https://arxiv.org/pdf/2011.10566.pdf
+- https://sh-tsang.medium.com/review-simsiam-exploring-simple-siamese-representation-learning-3c84ceb61702
+- https://www.v7labs.com/blog/self-supervised-learning-guide
+- https://medium.com/mlearning-ai/simsiam-your-go-to-representation-learning-model-for-invariance-features-74b907106d6
